@@ -28,7 +28,7 @@
     "@types/chart.js": "^2.7.56",
     "@types/md5": "^2.1.33",
     "ng-uikit-pro-standard": "file:ng-uikit-pro-standard-8.1.0.tgz",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "core-js": "^3.1.4",
     "express": "^4.17.1",
     "firebase": "^6.3.4",
