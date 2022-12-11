@@ -30,7 +30,7 @@
     "ng-uikit-pro-standard": "file:ng-uikit-pro-standard-8.1.0.tgz",
     "chart.js": "^2.8.0",
     "core-js": "^3.1.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^6.3.4",
     "font-awesome": "~4.7.x",
     "hammerjs": "~2.0.8",
